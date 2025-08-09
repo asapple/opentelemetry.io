@@ -1,8 +1,8 @@
 ---
-title: インストルメンテーション
+title: 計装
 aliases: [manual]
 weight: 20
-description: OpenTelemetry Python の手動インストルメンテーション
+description: OpenTelemetry Python の手動計装
 default_lang_commit: 2f850a610b5f7da5730265b32c25c9226dc09e5f
 cSpell:ignore: millis ottrace textmap
 ---
